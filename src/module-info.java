@@ -4,6 +4,5 @@
 /**
  * 
  */
-module teste {
-	requires java.desktop;
+module guia {
 }
