@@ -4,5 +4,6 @@
 /**
  * 
  */
-module tentei {
+module teste {
+	requires java.desktop;
 }
